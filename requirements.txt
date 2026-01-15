@@ -1,3 +1,6 @@
+kagglehub
+ipykernel
+notebook
 pandas
 matplotlib
 numpy
