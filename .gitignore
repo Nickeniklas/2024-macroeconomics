@@ -8,5 +8,6 @@ __pycache__/
 *.pyc
 
 # Data (Since you are doing a Global Market project)
-data/raw/
-data/processed/
+data/
+*.csv
+*.xlsx
